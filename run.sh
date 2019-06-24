@@ -1,0 +1,1 @@
+docker run -it --rm --privileged --name captive-portal --network="host" lushdigital/lushroom-captive-portal:latest
